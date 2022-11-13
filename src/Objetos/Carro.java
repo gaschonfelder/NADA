@@ -15,20 +15,22 @@ public class Carro {
     private String cor;
     private String Disponivel;
     private String Modelo;
-
+    private String Ano;
+    
     public Carro() {
     }
 
-    public Carro(String Placa, String Marca, String Classe, String cor, String Disponivel, String Modelo) {
+    public Carro(String Placa, String Marca, String Classe, String cor, String Disponivel, String Modelo, String Ano) {
         this.Placa = Placa;
         this.Marca = Marca;
         this.Classe = Classe;
         this.cor = cor;
         this.Disponivel = "Disponivel";
         this.Modelo = Modelo;
+        this.Ano = Ano;
     }
     
-    public void IncluirCarro(String Placa, String Marca, String Classe, String cor, String Disponivel, String Modelo){
+    public void IncluirCarro(String Placa, String Marca, String Classe, String cor, String Disponivel, String Modelo, String Ano){
         
         this.Placa = Placa;
         this.Marca = Marca;
@@ -36,6 +38,15 @@ public class Carro {
         this.cor = cor;
         this.Disponivel = Disponivel;
         this.Modelo = Modelo;
+        this.Ano = Ano;
+    }
+
+    public String getAno() {
+        return Ano;
+    }
+
+    public void setAno(String Ano) {
+        this.Ano = Ano;
     }
 
     public String getPlaca() {
@@ -85,4 +96,5 @@ public class Carro {
     public void setModelo(String Modelo) {
         this.Modelo = Modelo;
     }
+    
 }

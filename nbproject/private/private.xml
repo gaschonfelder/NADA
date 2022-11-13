@@ -3,10 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/FACUL/Fábrica%20de%20Projetos/0411/ProjetoLocadora/src/Telas/TelaCarros.java</file>
-            <file>file:/D:/FACUL/Fábrica%20de%20Projetos/0411/ProjetoLocadora/src/Telas/Config.java</file>
-            <file>file:/D:/FACUL/Fábrica%20de%20Projetos/0411/ProjetoLocadora/src/Conexões/MySQL.java</file>
-            <file>file:/D:/FACUL/Fábrica%20de%20Projetos/0411/ProjetoLocadora/src/Telas/TelaClienteNova.java</file>
+            <file>file:/C:/Users/Gabriel/Desktop/ProjetoLocadora/src/Conexões/MySQL.java</file>
+            <file>file:/C:/Users/Gabriel/Desktop/ProjetoLocadora/src/Objetos/Alugar.java</file>
+            <file>file:/C:/Users/Gabriel/Desktop/ProjetoLocadora/src/Objetos/Carro.java</file>
+            <file>file:/C:/Users/Gabriel/Desktop/ProjetoLocadora/src/Telas/TelaCarros.java</file>
+            <file>file:/C:/Users/Gabriel/Desktop/ProjetoLocadora/src/Telas/TelaCliente.java</file>
+            <file>file:/C:/Users/Gabriel/Desktop/ProjetoLocadora/src/Telas/TelaClienteNova.java</file>
         </group>
     </open-files>
 </project-private>
